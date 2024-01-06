@@ -1,4 +1,4 @@
-🕵️‍♂️ **Task 1: SMS Classifier!** 🌐
+🕵️‍♂️ **Task: SMS Classifier!** 🌐
 
 Dove deep into Kaggle's SMS dataset, unearthing the secrets of spam and ham messages! 🕵️‍♀️ 
 
